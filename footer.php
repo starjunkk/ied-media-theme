@@ -1,3 +1,4 @@
+<?php get_footer(); ?>
 <footer class="site-footer">
 
     <div class="section-inner">
@@ -10,7 +11,7 @@
 
             <p>
                 <a href="https://wordpress.org/">
-                    Powered by WordPress
+                    Powered by WordPress.
                 </a>
             </p><!-- .powered-by-wordpress -->
 
